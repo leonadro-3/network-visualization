@@ -84,8 +84,7 @@ https://fivethirtyeight.com/features/how-fivethirtyeights-redistricting-tracker-
 
 물론 디자인이 뛰어나지는 않지만 그냥 한번 써볼만한 것 같다. 근데 명령어가 먹히지 않는 걸 보니 더 이상 지원하지 않는 것 같다. 젠장..
 
-
-물론 [데브옵스](https://docs.gitlab.com/)툴 중에 어딘가 있을 법한 기능이긴 하다.
+[데브옵스](https://docs.gitlab.com/)툴 중에 어딘가 있을 법한 기능이긴 하지만  cytoscape를 이용해서 한번 만들어보는게 훨씬 빠를 것 같다.
 
 
 
